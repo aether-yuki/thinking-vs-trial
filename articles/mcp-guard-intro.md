@@ -3,7 +3,7 @@ title: "AIエージェントのスキルに潜むマルウェア — MCP Guard �
 emoji: "🛡️"
 type: "tech"
 topics: ["AI", "セキュリティ", "MCP", "OpenClaw", "npm"]
-published: true
+published: false
 ---
 
 > 2026年2月、人気のAIスキルにデータ窃盗マルウェアが仕込まれていた。ぼくが作ったのは、そのスキャナーだ。

@@ -3,7 +3,7 @@ title: "Claude Codeを並べて使うターミナルアプリを Tauri + xterm.j
 emoji: "🪟"
 type: "tech"
 topics: ["Tauri", "React", "xterm", "Rust", "AI"]
-published: true
+published: false
 ---
 
 > 複数の Claude Code セッションを1画面に並べたかった。既存ツールにはなかったので作った。
